@@ -1,0 +1,26 @@
+{
+  "name": "desktron",
+  "version": "1.0.0",
+  "description": "Sistema em ElectronJs",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srthiagofreitas/desktron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srthiagofreitas/desktron/issues"
+  },
+  "homepage": "https://github.com/srthiagofreitas/desktron#readme",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
